@@ -1,0 +1,68 @@
+.navigation{
+  text-align: right;
+  width: 100%;
+}
+
+.navigation1{
+  right:5px;
+  top: 0px;
+}
+
+.nav {
+  margin: 25px;
+}
+
+#image{
+margin-left: auto;
+margin-right: auto;
+margin-top: 180px;
+margin-bottom: 10px;
+  height: 130px;
+  width: auto;
+}
+
+.input [type="text"]{
+  margin-top: 1px;
+  margin-bottom: 30px;
+  padding: 10px 220px;
+}
+
+
+.button1{
+  text-align: center;
+  margin-left: auto;
+  margin-right: 5px;
+  color: gray;
+  padding: 6px 15px;
+}
+.button2{
+  text-align: center;
+  margin-left: 5px;
+  margin-right: auto;
+  color: gray;
+  margin-bottom: 30px;
+  padding: 6px 15px;
+}
+
+p{
+
+}
+
+.bottom{
+  
+  text-align: left;
+  width: 100%;
+}
+.footer{
+  text-align: left;
+  width: 100%;
+}
+
+.footer1{
+  left: 5px;
+  bottom: 0px;
+}
+
+.foot{
+  margin: 25px;
+}
