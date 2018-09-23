@@ -1,4 +1,6 @@
 .navigation{
+  font-family: arial;
+  font-size: 14px;
   text-align: right;
   width: 100%;
 }
@@ -10,6 +12,7 @@
 
 .nav {
   margin: 25px;
+  color: black;
 }
 
 #image{
@@ -24,7 +27,7 @@ margin-bottom: 10px;
 .input [type="text"]{
   margin-top: 1px;
   margin-bottom: 30px;
-  padding: 10px 220px;
+  padding: 13px 220px;
 }
 
 
@@ -44,25 +47,93 @@ margin-bottom: 10px;
   padding: 6px 15px;
 }
 
-p{
 
+p{
+  font-family: arial;
+  font-size: 13px;;
+}
+
+.Eng{
+  color: blue;
+  text-decoration: underline;
+  font-family: arial;
+  font-size: 13px;
+}
+
+#fbar{
+  background: #f2f2f2;
+  border-top: 1px solid #e4e4e4;
+  line-height: 30px;
+  min-width: 930px;
+  border-bottom: 1px solid #e4e4e4;
 }
 
 .bottom{
-  
   text-align: left;
+  color: gray;
+  font-family: arial;
+  font-size: 14px;
   width: 100%;
-}
-.footer{
-  text-align: left;
-  width: 100%;
+  margin-bottom: 20px;
+  margin-left: 25px;
 }
 
-.footer1{
+
+.footer{
+  text-align: left;
+  margin-left: 25px;
+  width: 100%;
+  left: 5px;
+}
+
+.foot1{
+  text-align: left;
+  color: gray;
+  font-family: arial;
+  font-size: 13px;
   left: 5px;
   bottom: 0px;
 }
 
-.foot{
+.foot2{
+  text-align: left;
+  color: gray;
+  font-family: arial;
+  font-size: 13px;
   margin: 25px;
+  left: 5px;
+}
+
+.foot3{
+  text-align: left;
+  color: gray;
+  font-family: arial;
+  font-size: 13px;
+  margin: 25px;
+  left: 5px;
+}
+.foot4{
+  text-align: right;
+  color: gray;
+  font-family: arial;
+  font-size: 13px;
+  margin: 25px;
+  margin-left: 930px;
+  left: 5px;
+}
+.foot5{
+  text-align: right;
+  color: gray;
+  font-family: arial;
+  font-size: 13px;
+  margin: 25px;
+  left: 5px;
+}
+.foot6{
+  text-align: right;
+  color: gray;
+  font-family: arial;
+  font-size: 13px;
+  margin: 25px;
+  left: 5px;
 }
